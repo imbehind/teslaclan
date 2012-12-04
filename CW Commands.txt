@@ -7,25 +7,25 @@ These commands are issued by squad leader PRESENT AT THE SITE. Movement commands
 -----------------------------
 (describing the mode of movement)
 
-1.1. Rush 
-
-During rush you DO NOT STOP for any reason other to being detracked. The idea is by using rush to gain tactical advantage over the enemy.
-
-1.2. Push
+1.1. Push
 
 While pushing IT IS ALLOWED TO STOP for the right reasons. You can stop to aim-and-shoot. You can stop to avoid being hitted. It is allowed to stop if you are at low health and/or you think moving forward is not a very good idea (inform commander!). It is allways important NOT TO BLOCK your teammate's movement and/or line of fire while pushing unless told otherwise (narrow/cluster movement).
+
+1.1. Push Strict
+
+Same as Push, but DO NOT STOP for any reason other to being detracked. The idea to gain tactical advantage over the enemy.
 
 1.3. Hold (position)
 
 You are to hold your (general) position at any circumstances unless told otherwise. The engagement command should describe the details.  
 
-1.4. Back
+1.4. Retreat
 
-While going back IT IS ALLOWED TO STOP for the right reasons. The general idea is TO SLOW DOWN THE ENEMY. These reasons include aim-and-shoot, reloading while in cover, if you estimate you are in good enough position to fight the enemy... 
+While retreating IT IS ALLOWED TO STOP for the right reasons. The general idea is TO SLOW DOWN THE ENEMY. These reasons include aim-and-shoot, reloading while in cover, if you estimate you are in good enough position to fight the enemy... 
 
-1.5. Retreat
+1.5. Retreat Strict
 
-While retreating IT IS BEST NOT TO STOP. The general idea is to KEEP YOUR TANK ALIVE. Your tank is needed elswhere where it contribute better to overall victory and it is your duty to keep it alive as long as possible.
+Same as Retreat, but IT IS BEST NOT TO STOP. The general idea is to KEEP YOUR TANK ALIVE. Your tank is needed elswhere where it contribute better to overall victory and it is your duty to keep it alive as long as possible.
 
 
 
@@ -45,23 +45,15 @@ FIRE AT WILL! Engage allways the lowest health tank or marked tank!
 
 If the squad leader or commander do not issue engagement command, this is the default mode.
 
-2.4. Attack Narrow
-
-This mode of attack consists of movement in column while the tanks at front with the best armor take the initial hits by the enemy.
-
-2.5. Attack Wide
-
-This mode of attack consists of movement in spread line thereby giving the enemy as many targets as possible. The idea has two benefits - 1st: The damage from enemy is spread across the tank group, 2nd: Friendly tanks have clear line of fire. The key word is Focusing fire. If our team focuses the fire correctly and enemy does not, the enemy is killed with minimum casualities. We are giving the enemy more targets to shoot while, at the same time, giving ourselves more oportunity to fire (because noone blocks the line of fire).
-
-2.6. Attack-at-will
+2.4. Attack-at-will
 
 Attack as you wish. It is allowed to break formation and flank the enemy.
 
-2.9. Take Cover (From fire)
+2.5. Take Cover (From fire)
 
 Tanks given this order should find cover from enemy fire at all cost.
 
-2.10. Hide (From view)
+2.6. Hide (From view)
 
 Tanks given this order should find cover from enemy view at all cost and stay hidden until further notice.
 
@@ -74,16 +66,16 @@ STRATEGIC COMMANDS
 These commands are issued by team commander. The idea for this commands is to convey general strategic idea from the commander to the squad leaders AND/OR to the soldiers, but without unnecessary details and micromanagement involved. Strategic commands are to ensure that the general expected behaviour of every individual soldier is clear to all, even without squad leader to enforce them. Strategic movement commands are not necessary issued in pairs with strategic engagement commands. The commands are to be issued to the group of tanks, but can be applied to individuals also.
 
 
-3. Strategic movement commands
+3. Strategic commands
 ------------------------------
 
 3.1. Move to X
 
 While moving IT IS ALLOWED TO STOP for the right reasons. Similar to tactical push command - you advance to the designated postion and do not stop unless you have good reasons to do it.
 
-3.2. Run to X
+3.2. Move to X Strict
 
-During run you DO NOT STOP for any reason other to being detracked. The idea is by using run to gain strategic advantage over the enemy. This command is similar to tactical rush command.
+Same as Move, but you DO NOT STOP for any reason other to being detracked. The idea is by using run to gain strategic advantage over the enemy. This command is similar to tactical push strict command.
 
 3.2. Capture (and hold position) X
 
@@ -93,36 +85,32 @@ The goal for this command is to capture (or drive to) a specific position on a m
 
 The goal for this command is to engage designated enemy group of tanks and try to eliminate them, but NOT AT ANY COST (use your brain soldier!). The group should remain engaged with enemy until told otherwise.
 
-3.4. Kill X
+3.4. Engage X Strict
 
 The goal for this command is to kill designated enemy group of tanks AT ANY COST (Short of kamikaze attack). The group should remain engaged with enemy until told otherwise.
 
 3.4. Fall back (to X)
 
-Fall back represents fighting retreat used either for slowing down the enemy if overpowered or if luring enemy to a trap or similar. The idea is to go backward gradually while still engaged with the enemy. This command is similar to tactical back command.
+Fall back represents fighting retreat used either for slowing down the enemy if overpowered or if luring enemy to a trap or similar. The idea is to go backward gradually while still engaged with the enemy. This command is similar to tactical retreat command.
 
-3.5. Evacuate to X
+3.5. Fall back to X Strict
 
-Evacuate is a form of retreat with main idea of keeping as many tanks as possible alive for the continuation of the battle.  This command is similar to tactical retreat command.
+Evacuate is a form of retreat with main idea of keeping as many tanks as possible alive for the continuation of the battle.  This command is similar to tactical retreat strict command.
 
 
 
-4. Strategic engagement commands
---------------------------------
+4. Mode
+-------
 
-These command are the most general directions possible from the commander to his tanks. The idea is to allow the commander to give such a command which will allow him to concentrate his attention elswhere on the battlefield, while ensuring that the group of tanks which recieved the command will not screw up bigtime, even if no squad leader is present. In short, these commands represent general guidelines for tank movement while faced with the enemy. The commands are dynamic and soldiers should adapt depending on the situation.
+These command are the most general directions possible from the commander to his tanks. The idea is to allow the commander to delegate reposibility to a platoon which will allow him to concentrate his attention elswhere on the battlefield, while ensuring that the group of tanks which recieved the command will not screw up bigtime, even if no squad leader is present. In short, these commands represent general guidelines for tank movement while faced with the enemy. The commands are dynamic and soldiers should adapt depending on the situation.
 
-4.1. Defend Passive/Normal/Aggressive (at x (towards y)) (Dynamic position - defence is not unconditional)
+4.1. Be Passive
 
-Passive Defence - 	(HOLD IF STRONGER, RETREAT/COVER IF EQUAL, DO NOT ADVANCE)
-Normal Defence - 	(HOLD IF EQUAL, RETREAT/COVER ONLY IF WEAKER, DO NOT ADVANCE)
-Aggressive Defence -(HOLD EVEN IF WEAKER, DO NOT RETREAT AT ANY COST, ADVANCE IF STRONGER)
+Tells the platoon leader to be defensive and not risk anything. The platoon should hold the general position they were assigned, but fall back if the platoon leader deems this necessary (but should inform the commander when that happens). They should not push forward, even if the squad leader thinks it's possible.
 
-4.2. Advance Passive/Normal/Aggressive (at x (towards y)) (Dynamic position - advance is not unconditional)
+4.2. Be Aggressive
 
-Passive Advance - 	(ADVANCE IF STRONGER, STOP&HOLD IF EQUAL, RETREAT ONLY IF WEAKER)
-Normal Advance - 	(ADVANCE IF EQUAL, STOP&HOLD IF WEAKER, DO NOT RETREAT)
-Aggressive Advance -(ADVANCE EVEN IF WEAKER, DO NOT STOP, DO NOT RETREAT AT ANY COST)
+Tells the platoon leader to be aggressive and push forward if he deems it possible.
 
 Example: "Defend aggresive at F4" (think the pass behind snipe position on Mountain Pass) , "Advance normal towards enemy base" (Think uphill on El Halluf)
 
@@ -131,7 +119,7 @@ Example: "Defend aggresive at F4" (think the pass behind snipe position on Mount
 BATTLE COMMANDS
 ===============
 
-Issued by the squad leader in the battle
+Issued by the squad leader in the battle, basically the name of a tactic that should be employed
 
 5. Battle commands (Manouvres and in battle commands)
 
@@ -156,6 +144,12 @@ Issued by the squad leader in the battle
 5.11. Shield X
 
 5.12. Fighting retreat
+
+5.13. Attack Narrow
+
+5.14. Attack Wide
+
+
 
 
 SUPPORT COMMANDS
@@ -211,3 +205,6 @@ Status messages are spoken by soldiers to inform teammates/commanders
 
 7.9. Firing at X (in Y seconds)
 
+7.10. X, cover me
+
+7.11. X, I'll cover you

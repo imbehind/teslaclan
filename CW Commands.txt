@@ -69,7 +69,7 @@ STRATEGIC COMMANDS
 ## As you can see, I've eliminated "strict" completely. No need for it. Also, I think, from my experience in the army and navy (and also dog training :D) that the commands should consist of only one word, if possible (we already have strategic mode secondary command, so...)
 ## Also, one special command is Move - El Halluf move to their hill i.e. It has no modes (modifiers). We use it a lot so...
 
-These commands are issued by team commander. The idea behind these commands is to convey general strategic idea from the commander to the squad leaders AND/OR to the soldiers, but without unnecessary details and micromanagement involved. Strategic commands are to ensure that the general expected behavior of every individual soldier is clear to all, even without squad leader to enforce them. Strategic task commands are not necessary issued in pairs with strategic mode commands. The commands are to be issued to the group of tanks, but can be applied to individuals also.
+These commands are issued by team commander. The idea behind these commands is to convey general strategic idea from the commander to the squad leaders AND/OR to the soldiers, but without unnecessary details and micromanagement involved. Strategic commands are to ensure that the general expected behavior of every individual soldier is clear to all, even without squad leader to enforce them. Strategic task commands are not necessary issued in pairs with strategic mode commands - In that case, the Normal strategic mode is presumed. The commands are to be issued to the group of tanks, but can be applied to individuals also.
 
 
 3. Strategic mode commands
@@ -177,21 +177,32 @@ ESSENTIAL COMMANDS
 
 5.1.1. Focus fire at X
 
+All tanks in group should focus fire on designated tank and kill it ASAP.
+
 5.1.2. Shield X
 
+Designated or closest friendly tank(s) should shield friendly on low health to avoid his further damage/death. You are supposed to take a hit to save your teammate.
+
 5.1.4. Flank X
-  
+
+Designated or best situated tank(s) should move to the sides or if possible to the back of designated enemy tank(s) and try to kill.  
 
 ESSENTIAL MANOEUVRES/FORMATIONS
 +++++++++++++++++++++++++++++++
 
-5.2.1. Form firing line
+5.2.1. Group movement
 
-5.2.2. Attack Wide
+This manoeuvre represents basic organized group movement. The aim is to achieve a coherent group movement, without tanks falling off from the group. The idea is to appear before the enemy all at once avoiding focused fire from the enemy. Depending of the formation (spread/line or column/cluster) the group should also be able to provide either the clear line of fire for all tanks (spread formation), or protection from front by most armoured tanks (or scapegoats :))
+
+5.2.2. Form firing line
+
+This formation is basic deffensive/offensive formation which in defensive mode provides primarily protection for tanks in the formation. (Remember macedonian phalanx). In offensive mode, since tanks do not block each other, this formation provides protection while reloading and clear shot in peek-a-boo kind of attack on the exposed/unordered enemy.
+
+5.2.3. Attack Wide
 
 This mode of attack consists of movement in spread line thereby giving the enemy as many targets as possible. The idea has two benefits - 1st: The damage from enemy is spread across the tank group, 2nd: Friendly tanks have clear line of fire. The key word is Focusing fire. If our team focuses the fire correctly and enemy does not, the enemy is killed with minimum causalities. We are giving the enemy more targets to shoot while, at the same time, giving ourselves more opportunity to fire (because no one blocks the line of fire).
 
-5.2.3 Attack Narrow
+5.2.4 Attack Narrow
 
 This mode of attack consists of movement in column while the tanks at front with the best armor take the initial hits by the enemy.
 
@@ -215,7 +226,7 @@ OTHER MANOEUVRES/FORMATIONS
 
 5.4.2 Form line (of x tanks) / Spread
 
-5.4.3 Corner attack wide / narrow
+5.4.3 Corner attack (wide/narrow)
 
 5.4.4 Fighting retreat
 

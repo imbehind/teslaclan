@@ -3,8 +3,10 @@ TACTICAL COMMANDS
 
 These commands are issued by squad leader PRESENT AT THE SITE. Movement commands should allways be issued together with engagement commands to ensure the right response from soldiers. The commands can be issued to the whole group (Push and open fire, Hold & Peek-a-boo) or to single tank (Retreat and Take cover - i.e. to keep tank on low health alive for next CW battle)
 
+
 1. Tactical movement commands
 -----------------------------
+
 (describing the mode of movement)
 
 1.1. Rush 
@@ -28,9 +30,9 @@ While going back IT IS ALLOWED TO STOP for the right reasons. The general idea i
 While retreating IT IS BEST NOT TO STOP. The general idea is to KEEP YOUR TANK ALIVE. Your tank is needed elswhere where it contribute better to overall victory and it is your duty to keep it alive as long as possible.
 
 
-
 2. Tactical Engagement commands
 -------------------------------
+
 (describing the mode of enemy engagement)
 
 2.1. Hold Fire
@@ -59,7 +61,6 @@ Tanks given this order should find cover from enemy view at all cost and stay hi
 
 
 
-
 STRATEGIC COMMANDS
 ==================
 
@@ -77,7 +78,7 @@ While moving IT IS ALLOWED TO STOP for the right reasons. Similar to tactical pu
 
 During run you DO NOT STOP for any reason other to being detracked. The idea is by using run to gain strategic advantage over the enemy. This command is similar to tactical rush command.
 
-3.2. Capture (and hold position) X
+3.3. Capture (and hold position) X
 
 The goal for this command is to capture (or drive to) a specific position on a map and hold it AT ANY COST until told otherwise.
 
@@ -89,14 +90,13 @@ The goal for this command is to engage designated enemy group of tanks and try t
 
 The goal for this command is to kill designated enemy group of tanks AT ANY COST (Short of kamikaze attack). The group should remain engaged with enemy until told otherwise.
 
-3.4. Fall back (to X)
+3.5. Fall back (to X)
 
 Fall back represents fighting retreat used either for slowing down the enemy if overpowered or if luring enemy to a trap or similar. The idea is to go backward gradually while still engaged with the enemy. This command is similar to tactical back command.
 
-3.5. Evacuate to X
+3.6. Evacuate to X
 
 Evacuate is a form of retreat with main idea of keeping as many tanks as possible alive for the continuation of the battle.  This command is similar to tactical retreat command.
-
 
 
 4. Strategic engagement commands
@@ -126,9 +126,11 @@ BATTLE COMMANDS
 Issued by the squad leader in the battle
 
 5. Battle commands (MANOEUVREs and in battle commands)
+------------------------------------------------------
+
 
 ESSENTIAL COMMANDS
-------------------
+++++++++++++++++++
 
 5.1.1 Focus fire at X
 
@@ -138,7 +140,7 @@ ESSENTIAL COMMANDS
   
 
 ESSENTIAL MANOEUVRES/FORMATIONS
-------------------------------
++++++++++++++++++++++++++++++++
 
 5.2.1 Form firing line
 
@@ -152,7 +154,7 @@ This mode of attack consists of movement in column while the tanks at front with
 
 
 OTHER COMMANDS
---------------
+++++++++++++++
 
 5.3.1 Digg in / Hull down
 
@@ -163,9 +165,8 @@ OTHER COMMANDS
 5.11. Detrack
 
 
-
 OTHER MANOEUVRES/FORMATIONS
----------------------------
++++++++++++++++++++++++++++
 
 5.3.1 Form column(of x tanks) / Cluster 
 
@@ -207,8 +208,9 @@ Issued by the squad leader and/or commander
 6.11. Counter (Kill) scout 
 
 
+
 PLAYER STATUS MESSAGES
-=============
+======================
 
 Status messages are spoken by soldiers to inform teammates/commanders
 

@@ -39,29 +39,21 @@ DO NOT FIRE at any cost! (i.e. issued during entrapment, or spotting/patrolling)
 
 2.2. Open Fire
 
-FIRE AT WILL! Engage allways the lowest health tank or marked tank!
+Open fire but don't break formation. Engage allways the lowest health tank or marked tank!
 
 2.3. Peek-a-boo (Default static position)
 
 If the squad leader or commander do not issue engagement command, this is the default mode.
 
-2.4. Attack Narrow
-
-This mode of attack consists of movement in column while the tanks at front with the best armor take the initial hits by the enemy.
-
-2.5. Attack Wide
-
-This mode of attack consists of movement in spread line thereby giving the enemy as many targets as possible. The idea has two benefits - 1st: The damage from enemy is spread across the tank group, 2nd: Friendly tanks have clear line of fire. The key word is Focusing fire. If our team focuses the fire correctly and enemy does not, the enemy is killed with minimum casualities. We are giving the enemy more targets to shoot while, at the same time, giving ourselves more oportunity to fire (because noone blocks the line of fire).
-
-2.6. Attack-at-will
+2.4. Attack-at-will
 
 Attack as you wish. It is allowed to break formation and flank the enemy.
 
-2.9. Take Cover (From fire)
+2.5. Take Cover (From fire)
 
 Tanks given this order should find cover from enemy fire at all cost.
 
-2.10. Hide (From view)
+2.6. Hide (From view)
 
 Tanks given this order should find cover from enemy view at all cost and stay hidden until further notice.
 
@@ -135,23 +127,31 @@ Issued by the squad leader in the battle
 
 5. Battle commands (Manouvres and in battle commands)
 
-5.1. Form firing line
+5.1. Attack Narrow
 
-5.2. Form column(of x tanks) / Cluster 
+This mode of attack consists of movement in column while the tanks at front with the best armor take the initial hits by the enemy.
 
-5.3. Form line (of x tanks) / Spread
+5.2. Attack Wide
 
-5.4. Corner attack wide / narrow
+This mode of attack consists of movement in spread line thereby giving the enemy as many targets as possible. The idea has two benefits - 1st: The damage from enemy is spread across the tank group, 2nd: Friendly tanks have clear line of fire. The key word is Focusing fire. If our team focuses the fire correctly and enemy does not, the enemy is killed with minimum casualities. We are giving the enemy more targets to shoot while, at the same time, giving ourselves more oportunity to fire (because noone blocks the line of fire).
 
-5.5. Digg in / Hull down
+5.3. Form firing line
 
-5.7. Flank/Split
+5.4. Form column(of x tanks) / Cluster 
 
-5.8. Focus fire at X
+5.5. Form line (of x tanks) / Spread
 
-5.9. Facehugg / Block
+5.6. Corner attack wide / narrow
 
-5.10. Detrack
+5.7. Digg in / Hull down
+
+5.8. Flank/Split
+
+5.9. Focus fire at X
+
+5.10. Facehugg / Block
+
+5.11. Detrack
 
 5.11. Shield X
 

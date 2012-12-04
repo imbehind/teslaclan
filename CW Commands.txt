@@ -64,10 +64,10 @@ Tanks given this order should find cover from enemy view at all cost and stay hi
 STRATEGIC COMMANDS
 ==================
 
-These commands are issued by team commander. The idea for this commands is to convey general strategic idea from the commander to the squad leaders AND/OR to the soldiers, but without unnecessary details and micromanagement involved. Strategic commands are to ensure that the general expected behaviour of every individual soldier is clear to all, even without squad leader to enforce them. Strategic movement commands are not necessary issued in pairs with strategic engagement commands. The commands are to be issued to the group of tanks, but can be applied to individuals also.
+These commands are issued by team commander. The idea for this commands is to convey general strategic idea from the commander to the squad leaders AND/OR to the soldiers, but without unnecessary details and micromanagement involved. Strategic commands are to ensure that the general expected behaviour of every individual soldier is clear to all, even without squad leader to enforce them. Strategic task commands are not necessary issued in pairs with strategic mode commands. The commands are to be issued to the group of tanks, but can be applied to individuals also.
 
 
-3. Strategic movement commands
+3. Strategic task commands
 ------------------------------
 
 3.1. Move to X
@@ -99,7 +99,7 @@ Fall back represents fighting retreat used either for slowing down the enemy if 
 Evacuate is a form of retreat with main idea of keeping as many tanks as possible alive for the continuation of the battle.  This command is similar to tactical retreat command.
 
 
-4. Strategic engagement commands
+4. Strategic mode commands
 --------------------------------
 
 These command are the most general directions possible from the commander to his tanks. The idea is to allow the commander to give such a command which will allow him to concentrate his attention elswhere on the battlefield, while ensuring that the group of tanks which recieved the command will not screw up bigtime, even if no squad leader is present. In short, these commands represent general guidelines for tank movement while faced with the enemy. The commands are dynamic and soldiers should adapt depending on the situation.
@@ -184,6 +184,8 @@ SUPPORT COMMANDS
 Issued by the squad leader and/or commander
 
 6. Support commands (Mostly arty and scouts/med related)
+--------------------------------------------------------
+
 
 6.1. Patrol at X
 

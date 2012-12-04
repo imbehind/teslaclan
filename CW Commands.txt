@@ -100,6 +100,7 @@ Evacuate is a form of retreat with main idea of keeping as many tanks as possibl
 
 
 4. Strategic mode commands
+--------------------------
 
 These command are the most general directions possible from the commander to his tanks. The idea is to allow the commander to delegate reposibility to a platoon which will allow him to concentrate his attention elswhere on the battlefield, while ensuring that the group of tanks which recieved the command will not screw up bigtime, even if no squad leader is present. In short, these commands represent general guidelines for tank movement while faced with the enemy. The commands are dynamic and soldiers should adapt depending on the situation.
 

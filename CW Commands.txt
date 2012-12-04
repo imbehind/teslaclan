@@ -156,21 +156,21 @@ OTHER COMMANDS
 
 5.3.2 Split
 
-5.10. Facehugg / Block
+5.3.3 Facehugg / Block
 
-5.11. Detrack
+5.3.4 Detrack
 
 
 OTHER MANOEUVRES/FORMATIONS
 +++++++++++++++++++++++++++
 
-5.3.1 Form column(of x tanks) / Cluster 
+5.4.1 Form column(of x tanks) / Cluster 
 
-5.3.2 Form line (of x tanks) / Spread
+5.4.2 Form line (of x tanks) / Spread
 
-5.3.3 Corner attack wide / narrow
+5.4.3 Corner attack wide / narrow
 
-5.3.4 Fighting retreat
+5.4.4 Fighting retreat
 
 
 

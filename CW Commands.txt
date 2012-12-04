@@ -72,10 +72,38 @@ STRATEGIC COMMANDS
 These commands are issued by team commander. The idea behind these commands is to convey general strategic idea from the commander to the squad leaders AND/OR to the soldiers, but without unnecessary details and micromanagement involved. Strategic commands are to ensure that the general expected behavior of every individual soldier is clear to all, even without squad leader to enforce them. Strategic task commands are not necessary issued in pairs with strategic mode commands. The commands are to be issued to the group of tanks, but can be applied to individuals also.
 
 
-3. Strategic task commands
+3. Strategic mode commands
 --------------------------
 
-3.1. Move to X
+Strategic mode commands are regularly issued together with strategic tasks commands and they change the nature of task execution.
+
+These commands are the most general directions possible from the commander to his tanks. The idea is to allow the commander to delegate responsibility to a platoon which will allow him to concentrate his attention elsewhere on the battlefield, while ensuring that the group of tanks which received the command will not screw up magnificently, even if no squad leader is present. In short, these commands represent general guidelines for tank movement while faced with the enemy. The commands are dynamic and soldiers should adapt depending on the situation. 
+
+3.1. Passive
+
+The main goal is to KEEP OUR TANKS SAFE. Platoon leader should PUSH FORWARD ONLY UPON PERMIT from the commander.
+
+Tells the platoon leader to be defensive and not risk anything. The platoon should hold the general position they were assigned, but fall back if the platoon leader deems this necessary (but should inform the commander when that happens). They should not push forward, even if the squad leader thinks it's possible. 
+
+3.2. Aggressive
+
+The main goal is to ELIMINATE THE ENEMY. Platoon leader should RETREAT ONLY UPON PERMIT from the commander.
+
+Tells the platoon leader to be aggressive and try to eliminate the enemy even at high cost (everything short of kamikaze attack is fine). 
+
+3.3. Normal
+
+The main goal is to ADAPT TO THE CIRCUMSTANCES. PUSH/KILL IF POSSIBLE, RETREAT IF NECESSARY. It is the default mode.
+
+This mode does not need to be ordered by the commander. If strategic task is issued without specific mode, it defaults to Normal, and it falls upon platoon leader and/or tanks in the field to adapt to the situation.
+
+
+4. Strategic task commands
+--------------------------
+
+## Additional Passive/Normal/Aggressive modes explained. Maybe not needed.
+
+4.1. Move to X
 
 ## Ex Run
 
@@ -83,9 +111,11 @@ Unconditional strategic repositioning of the tanks. You DO NOT STOP for any reas
 
 This command is special and it has no modes. 
 
-3.2. Advance to(wards) X
+4.2. Advance to(wards) X
 
 ## Ex move, joined together with advance from strategic modes
+
+Advancing the tanks in the indicated direction or towards some designated position.
 
 Passive - While advancing YOU MUST STOP if faced with the opposition.
 
@@ -93,7 +123,7 @@ Normal - While advancing IT IS ALLOWED TO STOP for the right reasons. Similar to
 
 Aggressive - While advancing IT IS NOT ALLOWED TO STOP until the enemy is eliminated or the designated position is reached. Similar to tactical Rush command.
 
-3.3. Capture (and hold position) X / Defend X
+4.3. Capture (and hold position) X / Defend X
 
 ## incorporated Defend from strategic modes here
 
@@ -107,7 +137,9 @@ Normal - ADAPT TO THE CIRCUMSTANCES, DO NOT TAKE UNNECESSARY RISKS
 
 Aggressive - KILL ALL ENEMY, DO NOT RETREAT
 
-3.4. Engage X
+4.4. Engage X
+
+Attacking the enemy group of tanks.
 
 Passive - The goal for this command is to DISTRACT OR LURE enemy group of tanks, but safely in a way that the enemy cannot deal much damage to friendly tanks. The group should disengage and retreat automatically if the enemy counterattacks in force. 
 
@@ -115,41 +147,15 @@ Normal - The goal for this command is to ATTACK designated enemy group of tanks 
 
 Aggressive - The goal for this command is to KILL designated enemy group of tanks AT ANY COST (Short of kamikaze attack). The group should remain engaged with enemy until told otherwise.
 
-3.5. Fall back (to X)
+4.5. Fall back (to X)
+
+Retreating in the indicated direction or towards some designated position.
 
 Passive - a form of retreat with main idea of keeping alive as many tanks as possible for the continuation of the battle. The tank group should retreat to the designated (or the SAFEST) position in the QUICKEST AND THE MOST SAFE WAY possible. This command is similar to tactical retreat command.
 
 Normal - fighting retreat used either for slowing down the enemy if overpowered or for luring the enemy into a trap or into a bad strategic position. If the enemy stops advance, the tank group should still RETREAT TO THE DESIGNATED POSITION and await further orders.
 
 Aggressive - fighting retreat used for slowing down the enemy if overpowered. The idea is to go backward gradually while still engaged with the enemy. If the enemy stops advance, the tank group should HOLD THE NEW POSITION and await further orders.
-
-
-
-
-4. Strategic mode commands
---------------------------
-
-Strategic mode commands are regularly issued together with strategic tasks commands and they change the nature of task execution.
-
-These commands are the most general directions possible from the commander to his tanks. The idea is to allow the commander to delegate responsibility to a platoon which will allow him to concentrate his attention elsewhere on the battlefield, while ensuring that the group of tanks which received the command will not screw up magnificently, even if no squad leader is present. In short, these commands represent general guidelines for tank movement while faced with the enemy. The commands are dynamic and soldiers should adapt depending on the situation. 
-
-4.1. Passive
-
-The main goal is to KEEP OUR TANKS SAFE. Platoon leader should PUSH FORWARD ONLY UPON PERMIT from the commander.
-
-Tells the platoon leader to be defensive and not risk anything. The platoon should hold the general position they were assigned, but fall back if the platoon leader deems this necessary (but should inform the commander when that happens). They should not push forward, even if the squad leader thinks it's possible. 
-
-4.2. Aggressive
-
-The main goal is to ELIMINATE THE ENEMY. Platoon leader should RETREAT ONLY UPON PERMIT from the commander.
-
-Tells the platoon leader to be aggressive and try to eliminate the enemy even at high cost (everything short of kamikaze attack is fine). 
-
-4.3. Normal
-
-The main goal is to ADAPT TO THE CIRCUMSTANCES. PUSH/KILL IF POSSIBLE, RETREAT IF NECESSARY. It is the default mode.
-
-This mode does not need to be ordered by the commander. If strategic task is issued without specific mode, it falls upon platoon leader and/or tanks in the field to adapt to the situation.
 
 
 

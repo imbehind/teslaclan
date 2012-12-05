@@ -243,13 +243,15 @@ Issued by the squad leader and/or commander directly to a specific tank / group 
 
 6.1. General class orders
 
-6.1.1. Snipe X (from Y) - Long range attack (hidden or otherwise)
+6.1.1. Reset cap
 
-6.1.2. Block (Passage) - Block passage with dead tank
+6.1.2. Snipe X (from Y) - Long range attack (hidden or otherwise)
 
-6.1.3. Defend Arty - Defend arty is a priority
+6.1.3. Block (Passage) - Block passage with dead tank
 
-6.1.4. Counter (Kill) scout - Find scout, block probabble scout trajectory, spot, kill, whatever...
+6.1.4. Defend Arty - Defend arty is a priority
+
+6.1.5. Counter (Kill) scout - Find scout, block probabble scout trajectory, spot, kill, whatever...
 
 
 6.2. Scout/Medium class orders
@@ -327,10 +329,8 @@ Status messages are spoken by soldiers to inform teammates/commanders
 
 7.5. Requests - by yourself
 
-7.5.1. X, Cover me
+7.5.1. X, Cover me / Shield me
 
-7.5.2. X, Shield me
-
-7.5.3. X, Help (with Y) - general help request - requires desription, i.e. "I'm stuck on map, please push"
+7.5.2. X, Help (with Y) - general help request - requires desription, i.e. "I'm stuck on map, please push"
 
 ## 7.5.3. X, I'll cover you - moved to 7.4.4., but for shielding - I think it is important to announce shielding (if not asked for it), because the shielded tank could by accident shoot in tank doing the shield. For covering, if asked, "Affirmative" is enough, if not asked, not important.

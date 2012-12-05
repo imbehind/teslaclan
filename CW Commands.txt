@@ -268,26 +268,59 @@ Issued by the squad leader and/or commander
 PLAYER STATUS MESSAGES
 ======================
 
+## this chapter is very important because it provides the commander (teammates) with audio feedback on progres executing his orders or the situation on the battlefield.
+
 Status messages are spoken by soldiers to inform teammates/commanders
 
-7.1. Overpowered / Losing / Dead
 
-7.2. Dominant / Winning / Cleared 
+7.1. Basic communication
 
-7.3. Low health / Dead soon
+7.1.1. Affirmation - Roger, Understood, Affirmative, Jawohl...
 
-7.4. Fucked up (modules damaged) / In flames / Detracked
+7.1.2. Negation - Negative... 
 
-7.5. Reloading (in x seconds)
+7.1.3. Cannot execute - Unable...
 
-7.6. Spotted
+## please give more suggestions for keywords.
 
-7.7. X (Enemy) detracked
 
-7.8. X (Enemy) spotted
+7.2. General status - upon request of a commander
 
-7.9. Firing at X (in Y seconds)
+7.2.1. Overpowered / Losing / Dead
 
-7.10. X, cover me
+7.2.2. Dominant / Winning / Cleared 
 
-7.11. X, I'll cover you
+7.2.3. Neutral / Fighting / In battle
+
+
+7.3. Individual tank status - upon request of squad leader or by yourself
+
+7.3.1. Low health / Dead soon
+
+7.3.2. Fucked up (modules damaged) / In flames / Detracked
+
+7.3.3. Reloading (in x seconds)
+
+7.3.4. Spotted
+
+
+7.4. Informative messages - by yourself
+
+7.4.1. X (Enemy) detracked
+
+7.4.2. X (Enemy/Arty) spotted
+
+7.4.3. Firing at X (in Y seconds)
+
+7.4.4. Shielding X
+
+
+7.5. Requests - by yourself
+
+7.5.1. X, Cover me
+
+7.5.2. X, Shield me
+
+7.5.3. X, Help (with Y) - general help request - requires desription, i.e. "I'm stuck on map, please push"
+
+## 7.5.3. X, I'll cover you - moved to 7.4., but for shielding - I think it is important to announce shielding (if not asked for it), because the shielded tank could by accident shoot in tank doing the shield. For covering, if asked, "Affirmative" is enough, if not asked, not important.

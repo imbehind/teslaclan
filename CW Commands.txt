@@ -27,7 +27,7 @@ You are to hold your (general) position at any circumstances unless told otherwi
 
 While going back IT IS ALLOWED TO STOP for the right reasons. The general idea is TO SLOW DOWN THE ENEMY. These reasons include aim-and-shoot, reloading while in cover or if you estimate you are in good enough position to fight the enemy... 
 
-1.5. Retreat
+1.5. Run
 
 Same as Back, but IT IS BEST NOT TO STOP. The priority is to KEEP YOUR TANK ALIVE. Your tank is needed elsewhere where it can better contribute to overall victory and it is your duty to keep it alive as long as possible.
 
@@ -131,11 +131,11 @@ The goal for this command is to capture (or drive to) a specific position on a m
 
 ## The main difference to the Advance command is that the Advance command is DIRECTIONAL, and Capture/Defend command is POSITIONAL - That's why we need both. 
 
-Passive - KEEP TANKS ALIVE, RETREAT IF WEAKER
+Passive - KEEP TANKS ALIVE, RETREAT IF WEAKER, DO NOT PUSH
 
-Normal - ADAPT TO THE CIRCUMSTANCES, DO NOT TAKE UNNECESSARY RISKS
+Normal - ADAPT TO THE CIRCUMSTANCES, DO NOT TAKE UNNECESSARY RISKS, DO NOT PUSH
 
-Aggressive - KILL ALL ENEMY, DO NOT RETREAT
+Aggressive - KILL ALL ENEMY, DO NOT RETREAT, DO NOT PUSH
 
 4.4. Engage X
 
@@ -147,7 +147,7 @@ Normal - The goal for this command is to ATTACK designated enemy group of tanks 
 
 Aggressive - The goal for this command is to KILL designated enemy group of tanks AT ANY COST (Short of kamikaze attack). The group should remain engaged with enemy until told otherwise.
 
-4.5. Fall back (to X)
+4.5. Retreat (to X)
 
 Retreating in the indicated direction or towards some designated position.
 

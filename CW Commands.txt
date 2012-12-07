@@ -269,7 +269,7 @@ Issued by the squad leader and/or commander directly to a specific tank / group 
 
 6.3.2. Barrage X - Shoot at specific position on the map. Shoot blind and in sync with other arty.
 
-6.3.3. Respot (at X) - change position.
+6.3.3. Relocate (to X) - change position.
 
 6.3.4. Find tracers - look for enemy arty tracers and do counterarty.
 

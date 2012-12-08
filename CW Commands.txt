@@ -187,6 +187,8 @@ Designated or closest friendly tank(s) should shield the friendly tank on low he
 
 Designated or best situated tank(s) should move to the sides or if possible to the back of designated enemy tank(s) and try to kill.
 
+5.1.5. Group up
+
 
 ESSENTIAL MANOEUVRES/FORMATIONS
 +++++++++++++++++++++++++++++++

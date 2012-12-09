@@ -179,59 +179,56 @@ ESSENTIAL COMMANDS
 
 All tanks in group should focus fire on the designated tank and kill it ASAP.
 
-5.1.2. Shield X
+5.1.2. Shield / Cover X
 
 Designated or closest friendly tank(s) should shield the friendly tank on low health to avoid his further damage/death. You are supposed to take a hit to save your teammate.
 
-5.1.4. Flank X
+5.1.3. Flank X
 
 Designated or best situated tank(s) should move to the sides or if possible to the back of designated enemy tank(s) and try to kill.
 
-5.1.5. Group up
+5.1.4. Group up / Spread
+
+OTHER COMMANDS
+++++++++++++++
+
+5.2.1. Digg in / Hull down
+
+5.2.2. Split (group)
+
+5.2.3. Facehugg / Block
+
+5.2.4. Detrack
 
 
 ESSENTIAL MANOEUVRES/FORMATIONS
 +++++++++++++++++++++++++++++++
 
-5.2.1. Group movement
+5.3.1. Group movement
 
 This manoeuvre represents basic organized group movement. The aim is to achieve a coherent group movement, without tanks falling off from the group. The idea is to appear before the enemy all at once avoiding focused fire from the enemy. Depending of the formation (spread/line or column/cluster) the group should also be able to provide either the clear line of fire for all tanks (spread formation), or protection from front by most armoured tanks (or scapegoats :))
 
-5.2.2. Form firing line
+5.3.2. Form firing line
 
 This formation is basic deffensive/offensive formation which in defensive mode provides primarily protection for tanks in the formation. (Remember macedonian phalanx). In offensive mode, since tanks do not block each other, this formation provides protection while reloading and clear shot in peek-a-boo kind of attack on the exposed/unordered enemy.
 
-5.2.3. Attack Wide
+5.3.3. Attack Wide
 
 This mode of attack consists of movement in spread line thereby giving the enemy as many targets as possible. The idea has two benefits - 1st: The damage from enemy is spread across the tank group, 2nd: Friendly tanks have clear line of fire. The key word is Focusing fire. If our team focuses the fire correctly and enemy does not, the enemy is killed with minimum causalities on our side. We are giving the enemy more targets to shoot while, at the same time, giving ourselves more opportunity to fire (because no one blocks the line of fire).
 
-5.2.4 Attack Narrow
+5.3.4 Attack Narrow
 
 This mode of attack consists of movement in column while the tanks at front, with the best armor, take the initial hits by the enemy.
-
-
-OTHER COMMANDS
-++++++++++++++
-
-5.3.1. Digg in / Hull down
-
-5.3.2. Split (group)
-
-5.3.3. Facehugg / Block
-
-5.3.4. Detrack
 
 
 OTHER MANOEUVRES/FORMATIONS
 +++++++++++++++++++++++++++
 
-5.4.1 Form column (of x tanks) / Cluster 
+5.4.1 Form column (of x tanks) / Form line (of x tanks)
 
-5.4.2 Form line (of x tanks) / Spread
+5.4.2 Corner attack (wide/narrow)
 
-5.4.3 Corner attack (wide/narrow)
-
-5.4.4 Fighting retreat
+5.4.3 Fighting retreat
 
 
 
@@ -326,7 +323,7 @@ Status messages are spoken by soldiers to inform teammates/commanders
 
 7.4.3. Firing at X (in Y seconds)
 
-7.4.4. Shielding X
+7.4.4. Shielding / Covering X
 
 
 7.5. Requests - by yourself

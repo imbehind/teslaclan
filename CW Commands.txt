@@ -1,13 +1,11 @@
 TACTICAL COMMANDS
 =================
 
-These commands are issued by squad leader PRESENT AT THE SITE. Movement commands should always be issued together with engagement commands to ensure the right response from soldiers. The commands can be issued to the whole group (Push and open fire, Hold & Peek-a-boo) or to single tank (Retreat and Take cover - i.e. to keep tank on low health alive for next CW battle - currently our commander always have to explain to the eager noob why he should stay alive and fight another day :) - Hawker somehow pops into mind :D)
+These commands are issued by squad leader PRESENT AT THE SITE. Movement commands should always be issued together with engagement commands to ensure the right response from soldiers. The commands can be issued to the whole group (Push and open fire, Hold & Peek-a-boo) or to single tank (Retreat and Take cover - i.e. to keep tank on low health alive for next CW battle - currently our commander always have to explain to the eager noob why he should stay alive and fight another day :) These commands must be clear to all players even when issued UNDER FIRE.
 
 
 1. Tactical movement commands
 -----------------------------
-
-## In my opinion, commands should be one short word (yes, just like for dogs :)). "Strict + something" just doesn't cut it here. These commands must be clear when issued EVEN UNDER FIRE. Can you imagine Hawker yelling "Retreat strict! Retreat Strict!" :D? I cannot. It’s not practical. That's why I have changed back to older version despite our previous agreement. Do you agree with my explanation?
 
 (describing the mode of movement)
 
@@ -58,16 +56,10 @@ Tanks given this order should find cover from enemy fire at all cost.
 
 DO NOT FIRE at any cost! (i.e. issued during entrapment, long range engagement or spotting/patrolling). Tanks given this order should find cover from enemy view at all cost and stay hidden until further notice.
 
-## I've joined these 2 commands. Hold fire has no meaning if already spotted by the enemy.
-
 
 
 STRATEGIC COMMANDS
 ==================
-
-## I've changed the concept into one in which strategic modes - Passive and Aggressive (OR IF UNSPOKEN, THEN DEFAUTS TO NORMAL) - change the behavior of our tanks and the way the strategic tasks are executed. Also, I've shorten the list to 5 commands, which is better. Everything seems intuitive to me now, what do you think?
-## As you can see, I've eliminated "strict" completely. No need for it. Also, I think, from my experience in the army and navy (and also dog training :D) that the commands should consist of only one word, if possible (we already have strategic mode secondary command, so...)
-## Also, one special command is Move - i.e. El Halluf move to their hill. This command has no modes (modifiers). We use it a lot so...
 
 These commands are issued by the team commander. The idea behind these commands is to convey the general strategic plan from the commander to the squad leaders AND/OR to the soldiers, but without unnecessary details and micromanagement involved. Strategic commands are here to ensure that the general expected behavior of every individual soldier is clear to all, even without squad leader to enforce it. Strategic task commands are not necessary issued in pairs with strategic mode commands - In that case, the Normal strategic mode is presumed. The commands are to be issued to the group of tanks, but can be applied to individuals also.
 
@@ -101,19 +93,13 @@ This mode does not need to be ordered by the commander. If strategic task is iss
 4. Strategic task commands
 --------------------------
 
-## Additional Passive/Normal/Aggressive modes explained. Maybe not needed.
-
 4.1. Move to X
-
-## Ex Run
 
 Unconditional strategic repositioning of the tanks. You DO NOT STOP for any reason other to being detracked. The idea using Move is to gain strategic POSITIONAL advantage over the enemy. No short term tactical gain (killing or damaging enemy tanks) is an excuse to disobey this command.
 
 This command is special and it has no modes. 
 
 4.2. Advance to(wards) X
-
-## Ex move, joined together with advance from strategic modes
 
 Advancing the tanks in the indicated direction or towards some designated position.
 
@@ -125,11 +111,9 @@ Aggressive - While advancing IT IS NOT ALLOWED TO STOP until the enemy is elimin
 
 4.3. Capture (and hold position) X / Defend X
 
-## incorporated Defend from strategic modes here
-
 The goal for this command is to capture (or drive to) a specific position on a map and defend it until told otherwise. The command is executed successfully when all tanks are on the designated position and with no opposition present.
 
-## The main difference to the Advance command is that the Advance command is DIRECTIONAL, and Capture/Defend command is POSITIONAL - That's why we need both. 
+The main difference to the Advance command is that the Advance command is DIRECTIONAL, and Capture/Defend command is POSITIONAL - That's why we need both. 
 
 Passive - KEEP TANKS ALIVE, RETREAT IF WEAKER, DO NOT PUSH
 
@@ -293,22 +277,19 @@ Issued by the squad leader and/or commander directly to a specific tank / group 
 PLAYER STATUS MESSAGES
 ======================
 
-## this chapter is very important because it provides the commander (teammates) with audio feedback on progres executing his orders or the situation on the battlefield.
-
-Status messages are spoken by soldiers to inform teammates/commanders
+Status messages are spoken by soldiers to inform teammates/commanders of their situation. The communication is very important because it provides the commander (& platoon leader/teammates) with audio feedback on progress executing his orders or the situation on the battlefield.
 
 
 7.1. Basic communication
 
-7.1.1. Affirmation - Roger, Understood, Affirmative, Jawohl...
+7.1.1. Affirmation - Affirmative, Roger, Understood, Clear, Jawohl, ...
 
 7.1.2. Negation - Negative... 
 
-7.1.3. Cannot execute - Unable...
+7.1.3. Cannot execute - Unable, Cannot, ...
 
-7.1.4. Repeat (last command)
+7.1.4. Repeat (last command) - Repeat
 
-## please give more suggestions for keywords.
 
 
 7.2. General engagement status - upon request of a commander
@@ -360,5 +341,3 @@ When fighting with equal enemy.
 7.5.2. X, Cover me / Shield me
 
 7.5.3. X, Help (with Y) - general help request - requires desription, i.e. "I'm stuck on map, please push"
-
-## 7.5.3. X, I'll cover you - moved to 7.4.4., but for shielding - I think it is important to announce shielding (if not asked for it), because the shielded tank could by accident shoot in tank doing the shield. For covering, if asked, "Affirmative" is enough, if not asked, not important.

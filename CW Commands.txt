@@ -13,7 +13,7 @@ These commands are issued by squad leader PRESENT AT THE SITE. Movement commands
 
 1.1. Push
 
-While pushing IT IS ALLOWED TO STOP for the right reasons. You can stop to aim-and-shoot. You can stop to avoid being hitted. It is allowed to stop if you are at low health and/or you think moving forward is not a very good idea (inform commander!). It is always important NOT TO BLOCK your teammate's movement and/or line of fire while pushing unless told otherwise (narrow/cluster movement).
+While pushing IT IS ALLOWED TO STOP for the right reasons. You can stop to aim-and-shoot. You can stop to avoid being hitted. It is allowed to stop if you are at low health and/or you think moving forward is not a very good idea (inform commander!). It is always important NOT TO BLOCK your teammate's movement and/or line of fire while pushing unless told otherwise.
 
 1.2. Rush
 
@@ -187,48 +187,62 @@ Designated or closest friendly tank(s) should shield the friendly tank on low he
 
 Designated or best situated tank(s) should move to the sides or if possible to the back of designated enemy tank(s) and try to kill.
 
-5.1.4. Group up / Spread
-
 OTHER COMMANDS
 ++++++++++++++
 
-5.2.1. Digg in / Hull down
+5.2.1. Split (group) - Divide the group in two groups with different tasks.
 
-5.2.2. Split (group)
+5.2.2. Spread (group) - Mainly a measure to prevent artillery splash.
 
-5.2.3. Facehugg / Block
+5.2.3. Digg in / Hull down
 
-5.2.4. Detrack
+5.2.4. Facehugg / Block
+
+5.2.5. Detrack
 
 
 ESSENTIAL MANOEUVRES/FORMATIONS
 +++++++++++++++++++++++++++++++
 
-5.3.1. Group movement
+5.3.1. Group up (make default formation)
 
-This manoeuvre represents basic organized group movement. The aim is to achieve a coherent group movement, without tanks falling off from the group. The idea is to appear before the enemy all at once avoiding focused fire from the enemy. Depending of the formation (spread/line or column/cluster) the group should also be able to provide either the clear line of fire for all tanks (spread formation), or protection from front by most armoured tanks (or scapegoats :))
+This formation is the most basic organized form of group movement.
+
+The most basic goal of this formation is to achieve a coherent group movement, without tanks falling off from the group. While moving in group it is important to realize that the speed of the group is equal to the speed of the slowest tank. Faster tanks should slow down and wait for slower ones, take the slower route and shift formation to accomodate for the slower tanks. Slow tanks should not stop and slowdown the whole group for any reason.
+
+The general idea is to appear before the enemy all at once thus avoiding focused fire from the enemy and providing cover between friendly tanks. Depending of the formation variant (spread/tight or line/column) it should also be able to provide either the clear line of fire for all tanks (spread/line formation variant) to execute focusing fire propperly, or protection/cover from frontal attack by most armoured or high health tanks (tight/column formation variant).
 
 5.3.2. Form firing line
 
 This formation is basic deffensive/offensive formation which in defensive mode provides primarily protection for tanks in the formation. (Remember macedonian phalanx). In offensive mode, since tanks do not block each other, this formation provides protection while reloading and clear shot in peek-a-boo kind of attack on the exposed/unordered enemy.
 
-5.3.3. Attack Wide
-
-This mode of attack consists of movement in spread line thereby giving the enemy as many targets as possible. The idea has two benefits - 1st: The damage from enemy is spread across the tank group, 2nd: Friendly tanks have clear line of fire. The key word is Focusing fire. If our team focuses the fire correctly and enemy does not, the enemy is killed with minimum causalities on our side. We are giving the enemy more targets to shoot while, at the same time, giving ourselves more opportunity to fire (because no one blocks the line of fire).
-
-5.3.4 Attack Narrow
-
-This mode of attack consists of movement in column while the tanks at front, with the best armor, take the initial hits by the enemy.
-
 
 OTHER MANOEUVRES/FORMATIONS
 +++++++++++++++++++++++++++
 
-5.4.1 Form column (of x tanks) / Form line (of x tanks)
+5.4.1. Form line (of X tanks)
 
-5.4.2 Corner attack (wide/narrow)
+This formation consists of movement in spread line thereby giving the enemy as many targets as possible.
 
-5.4.3 Fighting retreat
+The idea has two benefits - 1st: The damage from enemy is spread across the tank group, 2nd: Friendly tanks have clear line of fire. The key word is Focusing fire. If our team focuses the fire correctly and enemy does not, the enemy is killed with minimum causalities on our side. We are giving the enemy more targets to shoot while, at the same time, giving ourselves more opportunity to fire (because no one blocks the line of fire).
+
+You are to assume correct formation as soon as possible and in orderly fashion. Tanks on low health (less then one shot worth of health) should go to rear (if multiple rows and not oredered otherwise). Tanks with better armor and full health go to first row.
+
+5.4.2. Form column (of X tanks)
+
+This formation consists of movement in column while the tanks at front, with the best armor, take the initial hits by the enemy. (In narrow passages, on bridges and similar)
+
+You are to assume correct formation as soon as possible and in orderly fashion. Tanks on low health (less then one shot worth of health) should go to rear (if multiple rows and not oredered otherwise). Tanks with better armor and full health go to first row.
+
+5.4.3. Corner attack (wide/narrow)
+
+Tanks are supposed to exit the corner in accordance with current formation (wide if in line, narrow if in column).
+
+The goal for wide exit is to enter the enemy's field of vision all at the same time to avoid enemy focusing fire.
+
+The goal for narrow exit is to allow the most armored tanks to enter enemy's field of vision first to allow initial damage to other tanks. The other tanks should move and hide behind the tanks in the first row until the commander (or the platoon leader) give the different order.
+
+5.4.4. Fighting retreat
 
 
 
@@ -242,7 +256,7 @@ Issued by the squad leader and/or commander directly to a specific tank / group 
 
 6.1. General class orders
 
-6.1.1. Reset cap
+6.1.1. Reset cap - Go to our base and shoot enemy tanks one by one to reset cap points. If necessary use HE ammo.
 
 6.1.2. Snipe X (from Y) - Long range attack (hidden or otherwise)
 
@@ -270,7 +284,7 @@ Issued by the squad leader and/or commander directly to a specific tank / group 
 
 6.3.3. Relocate (to X) - change position.
 
-6.3.4. Find tracers - look for enemy arty tracers and do counterarty.
+6.3.4. Counter enemy arty - look for enemy arty tracers and do counterarty.
 
 6.3.5. Arty on the map / Arty kill Arty
 
@@ -292,16 +306,27 @@ Status messages are spoken by soldiers to inform teammates/commanders
 
 7.1.3. Cannot execute - Unable...
 
+7.1.4. Repeat (last command)
+
 ## please give more suggestions for keywords.
 
 
-7.2. General status - upon request of a commander
+7.2. General engagement status - upon request of a commander
+
+Short status of an engagement with the enemy. Given in progression - Comparison / Probbable battle outcome / Final outcome
 
 7.2.1. Overpowered / Losing / Dead
 
+When fighting with stronger or better enemy.
+
 7.2.2. Dominant / Winning / Cleared 
 
-7.2.3. Neutral / Fighting / In battle
+When fighting with weaker or noobish enemy
+
+7.2.3. Neutral / Fighting
+
+When fighting with equal enemy.
+
 
 
 7.3. Individual tank status - upon request of squad leader or by yourself
@@ -310,16 +335,18 @@ Status messages are spoken by soldiers to inform teammates/commanders
 
 7.3.2. Fucked up (modules damaged) / In flames / Detracked
 
-7.3.3. Reloading (in x seconds)
+7.3.3. Dead
 
-7.3.4. Spotted
+7.3.4. Reloading (in x seconds)
+
+7.3.5. Spotted
 
 
 7.4. Informative messages - by yourself
 
 7.4.1. X (Enemy) detracked
 
-7.4.2. X (Enemy/Arty) spotted
+7.4.2. X (Enemy/Arty) spotted / Arty on the map
 
 7.4.3. Firing at X (in Y seconds)
 
@@ -328,8 +355,10 @@ Status messages are spoken by soldiers to inform teammates/commanders
 
 7.5. Requests - by yourself
 
-7.5.1. X, Cover me / Shield me
+7.5.1. Focus fire at X
 
-7.5.2. X, Help (with Y) - general help request - requires desription, i.e. "I'm stuck on map, please push"
+7.5.2. X, Cover me / Shield me
+
+7.5.3. X, Help (with Y) - general help request - requires desription, i.e. "I'm stuck on map, please push"
 
 ## 7.5.3. X, I'll cover you - moved to 7.4.4., but for shielding - I think it is important to announce shielding (if not asked for it), because the shielded tank could by accident shoot in tank doing the shield. For covering, if asked, "Affirmative" is enough, if not asked, not important.

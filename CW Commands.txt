@@ -1,7 +1,7 @@
 TACTICAL COMMANDS
 =================
 
-These commands are issued by squad leader PRESENT AT THE SITE. Movement commands should always be issued together with engagement commands to ensure the right response from soldiers. The commands can be issued to the whole group (Push and open fire, Hold & Peek-a-boo) or to single tank (Retreat and Take cover - i.e. to keep tank on low health alive for next CW battle - currently our commander always have to explain to the eager noob why he should stay alive and fight another day :) These commands must be clear to all players even when issued UNDER FIRE.
+These commands are issued by squad leader PRESENT AT THE SITE. The movement commands should (if possible) be issued together (in pairs) with the engagement commands to ensure the right response from soldiers. The commands can be issued to the whole group (Push and open fire, Hold & Peek-a-boo) or to single tank (Retreat and Take cover - i.e. to keep tank on low health alive for next CW battle - currently our commander always have to explain to the eager noob why he should stay alive and fight another day :) These commands must be clear to all players even when issued UNDER FIRE.
 
 
 1. Tactical movement commands
@@ -75,7 +75,7 @@ These commands are the most general directions possible from the commander to hi
 
 The main goal is to KEEP OUR TANKS SAFE. Platoon leader should PUSH FORWARD ONLY UPON PERMIT from the commander.
 
-Tells the platoon leader to be defensive and not risk anything. The platoon should slowly advance or hold the general position they were assigned (depending on the task), but fall back if the platoon leader deems this necessary (but should inform the commander when that happens). They should not push forward if faced with the enemy, even if the squad leader thinks it's possible to owerpower the enemy tanks.
+Tells the platoon leader to be defensive and not risk anything. The platoon should slowly advance or hold the general position they were assigned (depending on the task), but fall back if the platoon leader deems this necessary (but should inform the commander when that happens). They should not push forward if faced with the enemy, even if the squad leader thinks it's possible to overpower the enemy tanks.
 
 3.2. Aggressive
 
@@ -111,7 +111,7 @@ Aggressive - While advancing IT IS NOT ALLOWED TO STOP until the enemy is elimin
 
 4.3. Capture (and hold position) X / Defend X
 
-The goal for this command is to capture (or drive to) a specific position on a map and defend it until told otherwise. The command is executed successfully when all tanks are on the designated position and with no opposition present.
+The goal for this command is to capture (or drive to) a specific position on a map AND/OR defend it until told otherwise. The command is executed successfully when all tanks are on the designated position and with no opposition present.
 
 The main difference to the Advance command is that the Advance command is DIRECTIONAL, and Capture/Defend command is POSITIONAL - That's why we need both. 
 

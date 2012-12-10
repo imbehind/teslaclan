@@ -38,7 +38,7 @@ Same as Back, but IT IS BEST NOT TO STOP. The priority is to KEEP YOUR TANK ALIV
 
 2.1. Peek-a-boo (Default engagement mode)
 
-If the squad leader or commander does not issue the engagement command, this is the default mode.
+If the squad leader or commander does not issue the engagement command, this is the default mode (Except for rush and runaway).
 
 2.2. Open Fire
 

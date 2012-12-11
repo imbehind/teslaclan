@@ -1,0 +1,141 @@
+List of commands and formation/manoeuvres to be trained:
+
+COMMANDS:
+
+5.1.1. Focus fire at X
+
+5.1.2. Shield / Cover X
+
+5.1.3. Flank X
+
+FORMATIONS / MANOEUVRES:
+
+5.3.1. Group up (make default formation)
+
+5.3.2. Form firing line
+
+5.4.3. Corner attack (wide/narrow)
+
+5.4.4. Fighting retreat
+
+
+Training 1 - Focusing fire (5.1.1.)
+###################################
+
+The main principle is that the alive tank is the dangerous tank. Regardless of how low his health is he can shoot, and therefore, he can damage and kill friendly tank. By killing as many tanks as quickly as possible reduces overal enemy damage per minute, thus giving your team the advantage.
+
+Prerequisite:
+=============
+No prior trianing needed.
+You need 2 groups of tanks of minimum 3 tanks on each side (6 alltogether)
+
+Maps:
+=====
+Malinovka
+
+Goal:
+=====
+To make clear to all players the importance of Focusing fire.
+
+Round 1 - "Demonstration":
+==========================
+
+Setup:
+------
+Bring 2 groups of tanks exactly opposite each other on the clear center of the map, 10 tank lengths apart. Order each group to form a line. Inform the players of focusing fire benefits.
+
+Execution:
+----------
+
+Group 1
+
+Order each tank in G1 first to shoot the tank right accros him, and only that tank, until the tank is dead. He may shoot another tank if he manages to kill the first one.
+
+Group 2
+
+Order tanks in G2 to shoot tanks in order, from left to right. They may swithch tank only if current target is dead. 
+
+Conclusion:
+-----------
+If everything goes as planned, G2 killed G1 with minimum casualities.
+
+Round 2 "Practice":
+===================
+
+Setup:
+------
+Exactly as in Round 1.
+
+Execution:
+----------
+
+Group 1&2
+
+Announce that the most experienced player in each group is the group/platoon leader who will call/mark targets for everyone in his group to shoot at.
+
+First group to reach 3 wins is the winner and that concludes the training.
+
+
+Training 2 - Covering (Shielding) your teammates (5.1.2.)
+#########################################################
+
+The main principle is that the alive tank is the dangerous tank, same as in focusing fire. Regardless of how low the health of friendly tank is he can shoot, and therefore, he can damage and kill enemy tanks. By dispersing the damage to larger number of friendly tanks the friendly team counters focusing fire from enemy.
+
+Prerequisite:
+=============
+Focus fire.
+You need 2 groups of tanks of minimum 4 tanks (even number) on each side (8 alltogether)
+
+Maps:
+=====
+Malinovka
+
+Goal:
+=====
+To make clear to all players the importance of covering friendly tanks in battle.
+
+Round 1 - "Demonstration":
+==========================
+
+Setup:
+------
+Bring 2 groups of tanks exactly opposite each other on the clear center of the map, 10 tank lengths apart. Order each group to form a line. Inform the players of focusing fire benefits.
+
+Execution:
+----------
+
+Group 1
+
+Order G1 to hold line formation and focus fire on G2.
+
+Group 2
+
+Order tanks in G2 to focus fire at G1, but at the same time allow them to break the formation and cover eack other in pairs. The covering should be executed like this:
+
+In each pair of tanks the left tank (T1) should go 1/2 length of tank forward and T2 should stay behind, but in position to fire. As soon as the first tank gets damaged, exchange positions. The T1 should allow (and angle if needed) the T2 to cover himself entirely behind T1 hull if seriously damaged.
+
+The main idea is that the tank with more health assume T1 position and execute frontal attack (with focusing fire), while more damaged tank assume T2 position and execute peek-a-boo attack (also with focusing fire) using T1 as a shield.
+
+The trick is in exchanging positions (T1, T2) at the right time between paired tanks.
+
+Conclusion:
+-----------
+If everything goes as planned, G2 should be able to kill G1 because the focusing fire from G1 is countered (partially) by covering/shielding.
+
+Round 2 "Practice":
+===================
+
+Setup:
+------
+Exactly as in Round 1.
+
+Execution:
+----------
+
+Group 1&2
+
+Announce that the most experienced player in each group is the group/platoon leader who will call/mark targets for everyone in his group to shoot at.
+
+First group to reach 3 wins is the winner and that concludes the training.
+
+

@@ -259,6 +259,8 @@ Issued by the squad leader and/or commander directly to a specific tank / group 
 
 6.2.3. Support X - The med/scout is assigned to a group of heavies. Flank and spot for them.
 
+6.2.4. Suicide (Spot) - Scout must spot (arty or anything) even if it gets him killed.
+
 
 6.3. Artillery class orders
 

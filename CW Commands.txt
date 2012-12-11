@@ -167,9 +167,11 @@ All tanks in group should focus fire on the designated tank and kill it ASAP.
 
 Designated or closest friendly tank(s) should shield the friendly tank on low health to avoid his further damage/death. You are supposed to take a hit to save your teammate.
 
-5.1.3. Flank X
+5.1.3. Flank X (left/right)
 
 Designated or best situated tank(s) should move to the sides or if possible to the back of designated enemy tank(s) and try to kill.
+
+The most important thing to know when flanking is that NOT ALL TANKS should attempt the flank (if not ordered otherwise) because in that case the enemy will turn as you flank them facing you frontally while you drive pass them exposing your sides. Not more then 1/3 of tanks should attempt the flanking manoeuvre because that way the enemy always focuses attention to the greatest threat - your main battle group - allowing you to flank them.
 
 OTHER COMMANDS
 ++++++++++++++
